@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Mahesh R M!
 
-🚀 **Aspiring Backend Developer** | 💡 Exploring **Generative AI**, **Node.js**, and **Cloud Computing**  
+🚀 **Aspiring Backend Developer** | 💡 Exploring **Generative AI**, **Node.js** 
 🌱 Currently learning: Java DSA • Express.js • MongoDB • AI APIs
 
 ---
