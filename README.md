@@ -1,58 +1,110 @@
-# 👋 Hey there, I'm Mahesh R M!
+<div align="center">
 
-🚀 **Aspiring Backend Developer** | 💡 Exploring **Generative AI**, **Node.js** 
-🌱 Currently learning: Java DSA • Express.js • MongoDB • AI APIs
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="280"/>
 
----
+# Hi 👋, I'm Mahesh R Madiwalar
 
-## 💼 About Me
+### ### 🚀 Aspiring Backend Developer | MERN Stack | AI Builder | 🏆 Hackathon Winner | DSA Co-Lead @ GDG
 
-🎓 First-year student at Dr. Ambedkar Institute of Technology  
-🧠 Passionate about building backend systems, APIs, and scalable tech solutions  
-🤝 Love collaborating on cool ideas and learning from the community  
-⚡ Fun fact: I’m working on mini-projects weekly to sharpen my skills!
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 About Me
 
-**Languages:**  
-`Java` `JavaScript` `HTML` `CSS`
-
-**Frameworks & Tools:**  
-`Node.js` `Express.js` `MongoDB` `Git` `GitHub` `EJS`
-
-**Currently exploring:**  
-`Generative AI` `Docker` `REST APIs` `Cloud Services`
+- 🎓 BE (Electronics & Communication) — Dr. Ambedkar Institute of Technology, Bengaluru  
+- 💻 Passionate about Backend Systems, APIs & Scalable Web Apps  
+- 🤖 Building AI-powered platforms and automation tools  
+- 🏆 Winner — Inter-College Hackathon (Team SUPRA)  
+- 🧩 Solved **150+ DSA problems** on LeetCode  
+- 👨‍🏫 GDG DSA Co-Lead mentoring students  
 
 ---
 
-## 📌 Featured Projects
+## 🌟 Featured Project
 
-### 📡 [mini-chat_web](https://github.com/mahi-2-ron/mini-chat_web)
-A basic web-based chat app built using JavaScript. My first project to understand real-time interactions.
+### 🚑 Jeeva Raksha — Unified Hospital Information System  
+**ಜೀವರಕ್ಷ (Jeeva Raksha) — ಜೀವ ಉಳಿಸುವ ತಂತ್ರಜ್ಞಾನ**  
 
-### 📚 [java_dsa_by_mahi](https://github.com/mahi-2-ron/java_dsa_by_mahi)
-Java-based DSA practice repo — daily commits to improve my algorithmic thinking and problem-solving skills.
+*A trust-driven, AI-powered digital backbone for hospitals combining clinical intelligence with healing-centric design.*
 
-### 🧪 [Quora_mini_project](https://github.com/mahi-2-ron/Quora_mini_project)
-A simple Quora-style question/answer platform built using EJS and backend tools.
+🌐 **Live Demo:** https://jeevaraksha.netlify.app/
+
+**Highlights**
+
+- 🏥 OPD & IPD workflow management  
+- 🚨 Emergency & Operation Theatre real-time control  
+- 🧑‍⚕️ Doctor's Pad with stylus support & AI-assisted notes  
+- 🧪 AI-powered lab report analysis & radiology interpretation  
+- 🛏 Live bed occupancy tracking & smart allocation  
+- 💳 Billing, pharmacy & inventory system  
+- 👤 Patient portal for appointments & medical records  
+- 🌍 Multi-language interface (English / Kannada / Hindi)
+
+---
+
+## 🚀 Other Projects
+
+### 🧪 Vijnana Lab — AI-Powered Virtual Laboratory
+🏆 **Hackathon Winning Project**
+
+- Built full-stack virtual science lab platform  
+- React frontend + Node.js/Express backend  
+- Firebase authentication + MongoDB database  
+- Delivered production-ready solution in team  
+
+🔗 https://vijnanalabbyteamsupra.netlify.app/#/home  
+
+---
+
+### 🤖 AI Learning Assistant — Web App
+
+- AI explanations, quizzes & automated notes  
+- Integrated YouTube API for curated learning  
+- Built reusable React components & efficient state management  
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,python,c,react,nodejs,express,mongodb,firebase,git,github,docker,html,css,vscode" />
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahi-2-ron&show_icons=true&theme=tokyonight)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi-2-ron&layout=compact)](https://github.com/mahi-2-ron)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mahi-2-ron&show_icons=true&theme=tokyonight" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahi-2-ron&layout=compact&theme=tokyonight" height="165"/>
+
+</div>
 
 ---
 
-## 📫 Let's Connect
+## 🌱 Current Focus
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/)  
-Feel free to connect, collaborate, or chat about code and tech ideas ✨
+- Building real-world MERN + AI healthcare & EdTech platforms  
+- Strengthening DSA for placements  
+- Learning scalable backend architecture & cloud deployment  
 
 ---
 
-_“Code. Learn. Share. Repeat.”_
+## 📫 Connect With Me
 
+- 📧 **maheshrmadiwalar@gmail.com**  
+- 🔗 **LinkedIn:** https://linkedin.com/in/mahesh-r-madiwalar-9a468b345  
+- 💻 **GitHub:** https://github.com/mahi-2-ron  
+
+---
+
+<div align="center">
+
+⭐ *Always eager to learn, build, and collaborate on impactful tech projects.*
+
+</div>
