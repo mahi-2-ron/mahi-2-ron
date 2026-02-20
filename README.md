@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="280"/># Hi 👋, I'm Mahesh R Madiwalar
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="357"/># Hi 👋, I'm Mahesh R Madiwalar
 
 ### ### 🚀 Aspiring Backend Developer | MERN Stack | AI Builder | 🏆 Hackathon Winner | DSA Co-Lead @ GDG
 
