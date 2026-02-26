@@ -92,27 +92,28 @@
 - Learning scalable backend architecture & cloud deployment  
 
 ---
-## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mahi-2-ron&theme=tokyonight&hide_border=true" />
-</p>
 
----
+##  GitHub Streak
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahi-2-ron&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=mahi-2-ron&theme=tokyonight&hide_border=true)
 
 ---
 
-## 💻 Most Used Languages
+##  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahi-2-ron&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahi-2-ron&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+##  Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi-2-ron&layout=compact&theme=tokyonight&hide_border=true)
+
+
+---
+
+
 
 ## 📫 Connect With Me
 
