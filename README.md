@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="357"/># Hi 👋, I'm Mahesh R Madiwalar
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350"/>
 
-### ### 🚀 Aspiring Backend Developer | MERN Stack | AI Builder |  DSA Co-Lead @ GDG
+# Hi 👋, I'm Mahesh R Madiwalar
+
+### 🚀 Backend Developer | MERN Stack | AI Builder | DSA Co-Lead @ GDG
 
 </div>
 
@@ -10,60 +12,112 @@
 
 ## 🧠 About Me
 
-- 🎓 BE (Electronics & Communication) — Dr. Ambedkar Institute of Technology, Bengaluru  
-- 💻 Passionate about Backend Systems, APIs & Scalable Web Apps  
-- 🤖 Building AI-powered platforms and automation tools  
-- 🏆 Winner — Inter-College Hackathon (Team SUPRA)  
-- 🧩 Solved **150+ DSA problems** on LeetCode  
-- 👨‍🏫 GDG DSA Co-Lead mentoring students  
+- 🎓 BE (Electronics & Communication Engineering)  
+  **Dr. Ambedkar Institute of Technology, Bengaluru**
+
+- 💻 Passionate about **Backend Systems, APIs & Scalable Web Apps**
+
+- 🤖 Building **AI-powered platforms and automation tools**
+
+- 🏆 **Hackathon Winner — Team SUPRA**
+
+- 🧩 Solved **150+ DSA problems** on LeetCode
+
+- 👨‍🏫 **DSA Co-Lead @ Google Developer Groups (GDG)** mentoring students
 
 ---
 
-## 🌟 Featured Project
+# 🚀 Featured Projects
 
-### 🚑 Jeeva Raksha — Unified Hospital Information System  
-**ಜೀವರಕ್ಷ (Jeeva Raksha) — ಜೀವ ಉಳಿಸುವ ತಂತ್ರಜ್ಞಾನ**  
+## 🧵 NammaCraft — AI Powered Artisan Marketplace
 
-*A trust-driven, AI-powered digital backbone for hospitals combining clinical intelligence with healing-centric design.*
+**NammaCraft** is a full-stack AI-powered marketplace that bridges  
+**India’s traditional craft heritage with the modern digital economy.**
 
-🌐 **Live Demo:** https://jeevaraksha.netlify.app/
+It empowers artisans with digital storefronts while allowing buyers to
+discover authentic handmade products.
 
-**Highlights**
+### ✨ Key Features
 
-- 🏥 OPD & IPD workflow management  
-- 🚨 Emergency & Operation Theatre real-time control  
-- 🧑‍⚕️ Doctor's Pad with stylus support & AI-assisted notes  
-- 🧪 AI-powered lab report analysis & radiology interpretation  
-- 🛏 Live bed occupancy tracking & smart allocation  
-- 💳 Billing, pharmacy & inventory system  
-- 👤 Patient portal for appointments & medical records  
-- 🌍 Multi-language interface (English / Kannada / Hindi)
+- 🏛 **Cultural Discovery Engine**
+  - Interactive craft map of India
+  - Discover products by region & tradition
+
+- 🔨 **Live Auction System**
+  - Real-time bidding
+  - Countdown timers
+  - Bid alerts & watcher tracking
+
+- 🤖 **Gemini AI Integration**
+  - Voice-based product listing
+  - AI pricing suggestions
+  - AI marketplace assistant
+
+- 🛍 **Complete Buyer Experience**
+  - Wishlist & recommendations
+  - Cart → Checkout → Order tracking
+
+- 🎨 **Multi Role Dashboard**
+  - Buyer dashboard
+  - Artisan dashboard
+  - Admin analytics dashboard
+
+### ⚙️ Tech Stack
+
+React.js • Node.js • Express.js • MongoDB • Gemini AI • Firebase • D3.js
 
 ---
 
-## 🚀 Other Projects
+## 🚑 Jeeva Raksha — AI Hospital Management System
 
-### 🧪 Vijnana Lab — AI-Powered Virtual Laboratory
+**ಜೀವರಕ್ಷ (Jeeva Raksha)** is a unified hospital platform combining
+clinical intelligence with digital healthcare workflows.
+
+### Features
+
+- OPD & IPD workflow management  
+- Emergency & operation theatre monitoring  
+- AI lab report analysis  
+- Smart bed occupancy tracking  
+- Patient portal for appointments & records  
+
+🌐 **Live Demo**
+
+https://jeevaraksha.netlify.app/
+
+---
+
+## 🧪 Vijnana Lab — AI Virtual Science Laboratory
+
 🏆 **Hackathon Winning Project**
 
-- Built full-stack virtual science lab platform  
-- React frontend + Node.js/Express backend  
-- Firebase authentication + MongoDB database  
-- Delivered production-ready solution in team  
+A full-stack platform enabling students to perform **virtual science experiments online**.
 
-🔗 https://vijnanalabbyteamsupra.netlify.app/#/home  
+### Features
 
----
+- Interactive science experiments  
+- AI-powered explanations  
+- Firebase authentication  
+- Student dashboards  
 
-### 🤖 AI Learning Assistant — Web App
-
-- AI explanations, quizzes & automated notes  
-- Integrated YouTube API for curated learning  
-- Built reusable React components & efficient state management  
+🔗 https://vijnanalabbyteamsupra.netlify.app/#/home
 
 ---
 
-## 💻 Tech Stack
+## 🤖 AI Learning Assistant
+
+A learning platform that combines **AI explanations, quizzes and curated YouTube learning.**
+
+### Features
+
+- AI-generated explanations
+- Automated notes
+- Learning quizzes
+- YouTube integrated learning modules
+
+---
+
+# 💻 Tech Stack
 
 <div align="center">
 
@@ -73,7 +127,7 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -85,46 +139,39 @@
 
 ---
 
-## 🌱 Current Focus
+# 🔥 GitHub Streak
 
-- Building real-world MERN + AI healthcare & EdTech platforms  
-- Strengthening DSA for placements  
-- Learning scalable backend architecture & cloud deployment  
-
----
-
-
-##  GitHub Streak
+<div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mahi-2-ron&theme=tokyonight&hide_border=true)
 
----
-
-##  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahi-2-ron&show_icons=true&theme=tokyonight&hide_border=true)
+</div>
 
 ---
 
-##  Top Languages
+# 🌱 Current Focus
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahi-2-ron&layout=compact&theme=tokyonight&hide_border=true)
-
+- Building **real-world MERN + AI platforms**
+- Strengthening **DSA & problem solving**
+- Learning **scalable backend architecture & cloud deployment**
 
 ---
 
+# 📫 Connect With Me
 
+- 📧 **Email:**  
+  maheshrmadiwalar@gmail.com  
 
-## 📫 Connect With Me
+- 🔗 **LinkedIn:**  
+  https://linkedin.com/in/mahesh-r-madiwalar-9a468b345  
 
-- 📧 **maheshrmadiwalar@gmail.com**  
-- 🔗 **LinkedIn:** https://linkedin.com/in/mahesh-r-madiwalar-9a468b345  
-- 💻 **GitHub:** https://github.com/mahi-2-ron  
+- 💻 **GitHub:**  
+  https://github.com/mahi-2-ron  
 
 ---
 
 <div align="center">
 
-⭐ *Always eager to learn, build, and collaborate on impactful tech projects.*
+⭐ *Always learning, building, and collaborating on impactful tech.*
 
 </div>
