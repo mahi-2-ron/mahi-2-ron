@@ -23,7 +23,7 @@
 
 * 🧩 Solved **150+ DSA problems on LeetCode**
 
-* 👨‍🏫 **DSA Co-Lead @ Google Developer Groups (GDG)** mentoring students
+* 👨‍🏫 **DSA Co-Lead @ Google Developer Groups (GDG)** mentoring peers
 
 ---
 
