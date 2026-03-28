@@ -27,97 +27,104 @@
 
 ---
 
-# 🚀 Featured Projects
+export default function FeaturedProjects() {
+  const projects = [
+    {
+      title: "NammaCraft",
+      subtitle: "AI Powered Artisan Marketplace",
+      tech: ["React", "Node.js", "MongoDB", "Firebase", "Gemini AI"],
+      points: [
+        "D3.js map for cultural craft discovery",
+        "Real-time auction system with bidding",
+        "AI-powered pricing & voice listing",
+        "Multi-role dashboards (Buyer, Artisan, Admin)",
+      ],
+      icon: "🧵",
+    },
+    {
+      title: "Jeeva Raksha",
+      subtitle: "AI Hospital Management System",
+      tech: ["React", "Node.js", "MongoDB", "AI"],
+      points: [
+        "OPD & IPD workflow management",
+        "AI-powered lab report analysis",
+        "Smart bed occupancy system",
+        "Patient portal for appointments & records",
+      ],
+      icon: "🚑",
+      link: "https://jeevaraksha.netlify.app/",
+    },
+    {
+      title: "Vijnana Lab",
+      subtitle: "AI Virtual Science Laboratory",
+      tech: ["React", "Firebase", "AI"],
+      points: [
+        "Interactive virtual science experiments",
+        "AI explanations for concepts",
+        "Student dashboards & tracking",
+        "Hackathon winning project",
+      ],
+      icon: "🧪",
+      link: "https://vijnanalabbyteamsupra.netlify.app/#/home",
+    },
+  ];
 
-## 🧵 NammaCraft — AI Powered Artisan Marketplace
+  return (
+    <div className="max-w-6xl mx-auto px-4 py-10">
+      <h2 className="text-3xl font-bold mb-8 flex items-center gap-2">
+        🚀 Featured Projects
+      </h2>
 
-**NammaCraft** is a full-stack AI-powered artisan marketplace that bridges
-**India’s traditional craft heritage with the modern digital economy.**
+      <div className="grid md:grid-cols-2 gap-6">
+        {projects.map((project, index) => (
+          <div
+            key={index}
+            className="border rounded-2xl p-6 shadow-sm hover:shadow-xl hover:-translate-y-1 transition duration-300"
+          >
+            <h3 className="text-xl font-semibold flex items-center gap-2">
+              {project.icon} {project.title}
+            </h3>
 
-The platform empowers artisans with digital storefronts while allowing buyers to discover authentic handmade cultural products.
+            <p className="text-gray-600 mt-1 mb-3">
+              {project.subtitle}
+            </p>
 
-### Key Features
+            {/* Tech Stack */}
+            <div className="flex flex-wrap gap-2 mb-4">
+              {project.tech.map((tech, i) => (
+                <span
+                  key={i}
+                  className="text-xs px-3 py-1 rounded-md bg-gradient-to-r from-blue-500 to-cyan-500 text-white"
+                >
+                  {tech}
+                </span>
+              ))}
+            </div>
 
-🏛 Cultural Discovery Engine
-Interactive **D3.js map of India** where users explore crafts by region and artisan stories.
+            {/* Points */}
+            <ul className="list-disc pl-5 space-y-1 text-sm text-gray-700">
+              {project.points.map((point, i) => (
+                <li key={i}>{point}</li>
+              ))}
+            </ul>
 
-🔨 Live Auction System
-Real-time bidding, countdown timers, watcher counts, and outbid notifications.
-
-🤖 Gemini AI Integration
-Voice-based product listing, AI pricing suggestions, and marketplace AI assistant.
-
-🛍 Complete Buyer Experience
-Wishlist, recommendations, cart, checkout, and order tracking.
-
-🎨 Multi-Role Dashboards
-
-| Role    | Dashboard         | Capabilities                   |
-| ------- | ----------------- | ------------------------------ |
-| Buyer   | Marketplace       | Browse, wishlist, checkout     |
-| Artisan | Creator Dashboard | List products, manage auctions |
-| Admin   | Admin Dashboard   | Manage users, analytics        |
-
-### Tech Stack
-
-React.js • Node.js • Express.js • MongoDB • Firebase • Gemini AI • D3.js
-
----
-
-## 🚑 Jeeva Raksha — AI Hospital Management System
-
-**ಜೀವರಕ್ಷ (Jeeva Raksha)** is a unified hospital platform combining clinical intelligence with digital healthcare workflows.
-
-Features
-
-* OPD & IPD workflow management
-* Emergency & operation theatre monitoring
-* AI-powered lab report analysis
-* Smart bed occupancy system
-* Patient portal for appointments & records
-
-🌐 Live Demo
-https://jeevaraksha.netlify.app/
-
----
-
-## 🧪 Vijnana Lab — AI Virtual Science Laboratory
-
-🏆 Hackathon Winning Project
-
-A full-stack platform allowing students to perform **interactive virtual science experiments online**.
-
-Features
-
-* Interactive experiments
-* AI explanations
-* Student dashboards
-* Firebase authentication
-
-🔗 https://vijnanalabbyteamsupra.netlify.app/#/home
-
-
-
-
-# 💻 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,python,c,react,nodejs,express,mongodb,firebase,git,github,docker,html,css,vscode" />
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mahi-2-ron&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahi-2-ron&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
+            {/* Link */}
+            {project.link && (
+              <a
+                href={project.link}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block mt-4 text-sm font-medium text-blue-600 hover:underline"
+              >
+                🔗 View Project
+              </a>
+            )}
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
 
 ---
 
