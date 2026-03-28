@@ -1,33 +1,62 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350"/>
+<table>
+<tr>
 
-# Hi 👋, I'm Mahesh R Madiwalar
+<td width="40%" align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220"/>
+</td>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Backend+Developer;MERN+Stack+Developer;AI+Builder;Hackathon+Winner;DSA+Co-Lead+@+GDG" />
+<td width="60%" align="left">
 
-<img src="https://komarev.com/ghpvc/?username=mahi-2-ron&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<h2>Hi 👋, I'm Mahesh R Madiwalar</h2>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&vCenter=true&width=420&lines=Backend+Developer;MERN+Stack+Developer;AI+Builder;Hackathon+Winner;DSA+Co-Lead+@+GDG;Technical+Lead+@+E-Cell" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mahi-2-ron&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🧠 About Me
+## 🧠 About Me
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 👨‍💻 Profile
 
 * 🎓 BE (Electronics & Communication Engineering)
-  **Dr. Ambedkar Institute of Technology, Bengaluru**
+  Dr. Ambedkar Institute of Technology, Bengaluru
+* 💻 Backend Systems, APIs & Scalable Web Apps
+* 🤖 Building AI-powered platforms
 
-* 💻 Passionate about **Backend Systems, APIs & Scalable Web Apps**
+</td>
 
-* 🤖 Building **AI-powered platforms and automation tools**
+<td width="50%" valign="top">
 
-* 🧩 Solved **150+ DSA problems on LeetCode**
+### 🚀 Highlights
 
-* 👨‍🏫 **DSA Co-Lead @ Google Developer Groups (GDG)** mentoring peers
+* 🧩 150+ DSA problems (LeetCode)
+* 👨‍🏫 DSA Co-Lead @ GDG
+* 🧑‍💼 Technical Lead @ E-Cell (2024–25)
+* ⚡ MERN + AI + System Design
+
+</td>
+
+</tr>
+</table>
 
 ---
-
-## 🚀 Featured Projects
 
 ## 🚀 Featured Projects
 
@@ -36,8 +65,9 @@
 
 <td width="50%" valign="top">
 
-### 🧵 NammaCraft  
-AI Powered Artisan Marketplace  
+### 🧵 NammaCraft
+
+AI Powered Artisan Marketplace
 
 <p>
 <img src="https://img.shields.io/badge/React-blue?style=flat-square"/>
@@ -47,17 +77,18 @@ AI Powered Artisan Marketplace
 <img src="https://img.shields.io/badge/GeminiAI-purple?style=flat-square"/>
 </p>
 
-- 🏛 Cultural discovery with D3.js map  
-- 🔨 Real-time auction system  
-- 🤖 AI pricing & voice listing  
-- 🎨 Multi-role dashboards  
+* 🏛 Cultural discovery with D3.js map
+* 🔨 Real-time auction system
+* 🤖 AI pricing & voice listing
+* 🎨 Multi-role dashboards
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🚑 Jeeva Raksha  
-AI Hospital Management System  
+### 🚑 Jeeva Raksha
+
+AI Hospital Management System
 
 <p>
 <img src="https://img.shields.io/badge/React-blue?style=flat-square"/>
@@ -66,10 +97,10 @@ AI Hospital Management System
 <img src="https://img.shields.io/badge/AI-red?style=flat-square"/>
 </p>
 
-- 🏥 OPD & IPD workflow management  
-- 🤖 AI lab report analysis  
-- 🛏 Smart bed occupancy  
-- 👤 Patient portal  
+* 🏥 OPD & IPD workflow management
+* 🤖 AI lab report analysis
+* 🛏 Smart bed occupancy
+* 👤 Patient portal
 
 🔗 <a href="https://jeevaraksha.netlify.app/">Live Demo</a>
 
@@ -81,8 +112,9 @@ AI Hospital Management System
 
 <td width="50%" valign="top">
 
-### 🧪 Vijnana Lab  
-AI Virtual Science Laboratory  
+### 🧪 Vijnana Lab
+
+AI Virtual Science Laboratory
 
 <p>
 <img src="https://img.shields.io/badge/React-blue?style=flat-square"/>
@@ -90,10 +122,10 @@ AI Virtual Science Laboratory
 <img src="https://img.shields.io/badge/AI-purple?style=flat-square"/>
 </p>
 
-- 🧬 Interactive experiments  
-- 🤖 AI explanations  
-- 📊 Student dashboards  
-- 🏆 Hackathon winner  
+* 🧬 Interactive experiments
+* 🤖 AI explanations
+* 📊 Student dashboards
+* 🏆 Hackathon winner
 
 🔗 <a href="https://vijnanalabbyteamsupra.netlify.app/#/home">Live Demo</a>
 
@@ -101,8 +133,9 @@ AI Virtual Science Laboratory
 
 <td width="50%" valign="top">
 
-### 🌱 Project Earthworm  
-AI Powered Agri Marketplace  
+### 🌱 Project Earthworm
+
+AI Powered Agri Marketplace
 
 <p>
 <img src="https://img.shields.io/badge/Flutter-blue?style=flat-square"/>
@@ -110,10 +143,10 @@ AI Powered Agri Marketplace
 <img src="https://img.shields.io/badge/VertexAI-purple?style=flat-square"/>
 </p>
 
-- 🚜 Farmer-to-buyer platform  
-- 🤖 AI crop quality scoring  
-- ⚡ Real-time auction system  
-- 🏆 Hackathon winner  
+* 🚜 Farmer-to-buyer platform
+* 🤖 AI crop quality scoring
+* ⚡ Real-time auction system
+* 🏆 Hackathon winner
 
 </td>
 
@@ -123,8 +156,9 @@ AI Powered Agri Marketplace
 
 <td width="50%" valign="top">
 
-### 🚀 Namma Dev (Ongoing)  
-Where Karnataka Engineers Unite  
+### 🚀 Namma Dev (Ongoing)
+
+Where Karnataka Engineers Unite
 
 <p>
 <img src="https://img.shields.io/badge/React-19-blue?style=flat-square"/>
@@ -133,11 +167,10 @@ Where Karnataka Engineers Unite
 <img src="https://img.shields.io/badge/FramerMotion-black?style=flat-square"/>
 </p>
 
-- 📍 Local engineer networking across Karnataka  
-- 📈 Career opportunities & mentorship  
-- 🏆 Project showcasing platform  
-- 🌐 Global exposure for local talent  
-- 🏙️ City-based tech communities  
+* 📍 Karnataka engineer network
+* 📈 Career growth & mentorship
+* 🏆 Project showcase platform
+* 🌐 Global opportunities
 
 🔗 <a href="https://github.com/mahi-2-ron/namma_dev">GitHub Repo</a>
 
@@ -145,13 +178,12 @@ Where Karnataka Engineers Unite
 
 <td width="50%" valign="top">
 
-### ⚡ Currently Building  
-Next-Gen Developer Ecosystem  
+### ⚡ Currently Building
 
-- 🧠 AI-powered community features  
-- 🤝 Real-time collaboration tools  
-- 📊 Engineer growth tracking  
-- 🌍 Karnataka → Global expansion  
+* 🧠 AI-powered developer ecosystem
+* 🤝 Real-time collaboration tools
+* 📊 Engineer growth tracking
+* 🌍 Karnataka → Global expansion
 
 </td>
 
@@ -161,7 +193,17 @@ Next-Gen Developer Ecosystem
 
 ---
 
-# 🔥 GitHub Streak
+## 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,python,c,react,nodejs,express,mongodb,firebase,git,github,docker,html,css,vscode" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -171,25 +213,21 @@ Next-Gen Developer Ecosystem
 
 ---
 
-# 📈 Contribution Activity Graph
+## 📈 Contribution Activity Graph
 
 [![Mahesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahi-2-ron\&theme=tokyo-night)](https://github.com/mahi-2-ron)
 
 ---
 
+## 🌱 Current Focus
 
-
----
-
-# 🌱 Current Focus
-
-* Building **real-world MERN + AI platforms**
-* Strengthening **DSA & system design**
-* Learning **scalable backend architecture & cloud deployment**
+* Building real-world MERN + AI platforms
+* Strengthening DSA & system design
+* Learning scalable backend architecture & cloud
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 📧 Email
 [maheshrmadiwalar@gmail.com](mailto:maheshrmadiwalar@gmail.com)
@@ -204,6 +242,6 @@ https://github.com/mahi-2-ron
 
 <div align="center">
 
-⭐ Always learning, building, and collaborating on impactful tech.
+⭐ Always learning, building, and scaling impactful tech.
 
 </div>
