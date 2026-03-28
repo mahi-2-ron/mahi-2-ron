@@ -133,20 +133,7 @@ AI Virtual Science Laboratory
 
 <td width="50%" valign="top">
 
-### 🌱 Project Earthworm
 
-AI Powered Agri Marketplace
-
-<p>
-<img src="https://img.shields.io/badge/Flutter-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Firebase-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/VertexAI-purple?style=flat-square"/>
-</p>
-
-* 🚜 Farmer-to-buyer platform
-* 🤖 AI crop quality scoring
-* ⚡ Real-time auction system
-* 🏆 Hackathon winner
 
 </td>
 
@@ -229,14 +216,21 @@ Where Karnataka Engineers Unite
 
 ## 📫 Connect With Me
 
-📧 Email
-[maheshrmadiwalar@gmail.com](mailto:maheshrmadiwalar@gmail.com)
+<div align="center">
 
-🔗 LinkedIn
-https://linkedin.com/in/mahesh-r-madiwalar-9a468b345
+<a href="mailto:maheshrmadiwalar@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+</a>
 
-💻 GitHub
-https://github.com/mahi-2-ron
+<a href="https://linkedin.com/in/mahesh-r-madiwalar-9a468b345">
+  <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+</a>
+
+<a href="https://github.com/mahi-2-ron">
+  <img src="https://img.icons8.com/ios-glyphs/48/github.png" width="40"/>
+</a>
+
+</div>
 
 ---
 
