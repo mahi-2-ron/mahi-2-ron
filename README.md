@@ -27,104 +27,77 @@
 
 ---
 
-export default function FeaturedProjects() {
-  const projects = [
-    {
-      title: "NammaCraft",
-      subtitle: "AI Powered Artisan Marketplace",
-      tech: ["React", "Node.js", "MongoDB", "Firebase", "Gemini AI"],
-      points: [
-        "D3.js map for cultural craft discovery",
-        "Real-time auction system with bidding",
-        "AI-powered pricing & voice listing",
-        "Multi-role dashboards (Buyer, Artisan, Admin)",
-      ],
-      icon: "🧵",
-    },
-    {
-      title: "Jeeva Raksha",
-      subtitle: "AI Hospital Management System",
-      tech: ["React", "Node.js", "MongoDB", "AI"],
-      points: [
-        "OPD & IPD workflow management",
-        "AI-powered lab report analysis",
-        "Smart bed occupancy system",
-        "Patient portal for appointments & records",
-      ],
-      icon: "🚑",
-      link: "https://jeevaraksha.netlify.app/",
-    },
-    {
-      title: "Vijnana Lab",
-      subtitle: "AI Virtual Science Laboratory",
-      tech: ["React", "Firebase", "AI"],
-      points: [
-        "Interactive virtual science experiments",
-        "AI explanations for concepts",
-        "Student dashboards & tracking",
-        "Hackathon winning project",
-      ],
-      icon: "🧪",
-      link: "https://vijnanalabbyteamsupra.netlify.app/#/home",
-    },
-  ];
+## 🚀 Featured Projects
 
-  return (
-    <div className="max-w-6xl mx-auto px-4 py-10">
-      <h2 className="text-3xl font-bold mb-8 flex items-center gap-2">
-        🚀 Featured Projects
-      </h2>
+<table>
+<tr>
 
-      <div className="grid md:grid-cols-2 gap-6">
-        {projects.map((project, index) => (
-          <div
-            key={index}
-            className="border rounded-2xl p-6 shadow-sm hover:shadow-xl hover:-translate-y-1 transition duration-300"
-          >
-            <h3 className="text-xl font-semibold flex items-center gap-2">
-              {project.icon} {project.title}
-            </h3>
+<td width="50%">
 
-            <p className="text-gray-600 mt-1 mb-3">
-              {project.subtitle}
-            </p>
+### 🧵 NammaCraft  
+**AI Powered Artisan Marketplace**
 
-            {/* Tech Stack */}
-            <div className="flex flex-wrap gap-2 mb-4">
-              {project.tech.map((tech, i) => (
-                <span
-                  key={i}
-                  className="text-xs px-3 py-1 rounded-md bg-gradient-to-r from-blue-500 to-cyan-500 text-white"
-                >
-                  {tech}
-                </span>
-              ))}
-            </div>
+<p>
+<img src="https://img.shields.io/badge/React-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Node.js-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-darkgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/Firebase-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/GeminiAI-purple?style=flat-square"/>
+</p>
 
-            {/* Points */}
-            <ul className="list-disc pl-5 space-y-1 text-sm text-gray-700">
-              {project.points.map((point, i) => (
-                <li key={i}>{point}</li>
-              ))}
-            </ul>
+- 🏛 Cultural discovery with D3.js map  
+- 🔨 Real-time auction system  
+- 🤖 AI pricing & voice listing  
+- 🎨 Multi-role dashboards  
 
-            {/* Link */}
-            {project.link && (
-              <a
-                href={project.link}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-block mt-4 text-sm font-medium text-blue-600 hover:underline"
-              >
-                🔗 View Project
-              </a>
-            )}
-          </div>
-        ))}
-      </div>
-    </div>
-  );
-}
+</td>
+
+<td width="50%">
+
+### 🚑 Jeeva Raksha  
+**AI Hospital Management System**
+
+<p>
+<img src="https://img.shields.io/badge/React-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Node.js-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/MongoDB-darkgreen?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-red?style=flat-square"/>
+</p>
+
+- 🏥 OPD & IPD workflow management  
+- 🤖 AI lab report analysis  
+- 🛏 Smart bed occupancy  
+- 👤 Patient portal  
+
+🔗 <a href="https://jeevaraksha.netlify.app/" target="_blank">Live Demo</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🧪 Vijnana Lab  
+**AI Virtual Science Laboratory**
+
+<p>
+<img src="https://img.shields.io/badge/React-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Firebase-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-purple?style=flat-square"/>
+</p>
+
+- 🧬 Interactive experiments  
+- 🤖 AI explanations  
+- 📊 Student dashboards  
+- 🏆 Hackathon winner  
+
+🔗 <a href="https://vijnanalabbyteamsupra.netlify.app/#/home" target="_blank">Live Demo</a>
+
+</td>
+
+<td width="50%">
 
 ---
 
