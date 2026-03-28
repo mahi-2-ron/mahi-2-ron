@@ -233,6 +233,23 @@ Where Karnataka Engineers Unite
 </div>
 
 ---
+## 🧑‍💻 Tech Stack
+
+<div align="center">
+
+### 🚀 Languages
+<img src="https://skillicons.dev/icons?i=java,js,python,c" />
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+
+### 🛠️ Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+
+</div>
 
 <div align="center">
 
