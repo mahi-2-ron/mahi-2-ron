@@ -29,6 +29,8 @@
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <table>
 <tr>
 
@@ -98,7 +100,64 @@ AI Virtual Science Laboratory
 </td>
 
 <td width="50%" valign="top">
-e>
+
+### 🌱 Project Earthworm  
+AI Powered Agri Marketplace  
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Firebase-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/VertexAI-purple?style=flat-square"/>
+</p>
+
+- 🚜 Farmer-to-buyer platform  
+- 🤖 AI crop quality scoring  
+- ⚡ Real-time auction system  
+- 🏆 Hackathon winner  
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚀 Namma Dev (Ongoing)  
+Where Karnataka Engineers Unite  
+
+<p>
+<img src="https://img.shields.io/badge/React-19-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Vite-8-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/TailwindCSS-4-cyan?style=flat-square"/>
+<img src="https://img.shields.io/badge/FramerMotion-black?style=flat-square"/>
+</p>
+
+- 📍 Local engineer networking across Karnataka  
+- 📈 Career opportunities & mentorship  
+- 🏆 Project showcasing platform  
+- 🌐 Global exposure for local talent  
+- 🏙️ City-based tech communities  
+
+🔗 <a href="https://github.com/mahi-2-ron/namma_dev">GitHub Repo</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ Currently Building  
+Next-Gen Developer Ecosystem  
+
+- 🧠 AI-powered community features  
+- 🤝 Real-time collaboration tools  
+- 📊 Engineer growth tracking  
+- 🌍 Karnataka → Global expansion  
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -118,13 +177,7 @@ e>
 
 ---
 
-# 🐍 Contribution Snake
 
-<div align="center">
-
-![snake gif](https://github.com/mahi-2-ron/mahi-2-ron/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
