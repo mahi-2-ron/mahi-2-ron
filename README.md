@@ -32,10 +32,10 @@
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧵 NammaCraft  
-**AI Powered Artisan Marketplace**
+AI Powered Artisan Marketplace  
 
 <p>
 <img src="https://img.shields.io/badge/React-blue?style=flat-square"/>
@@ -52,10 +52,10 @@
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚑 Jeeva Raksha  
-**AI Hospital Management System**
+AI Hospital Management System  
 
 <p>
 <img src="https://img.shields.io/badge/React-blue?style=flat-square"/>
@@ -69,7 +69,7 @@
 - 🛏 Smart bed occupancy  
 - 👤 Patient portal  
 
-🔗 <a href="https://jeevaraksha.netlify.app/" target="_blank">Live Demo</a>
+🔗 <a href="https://jeevaraksha.netlify.app/">Live Demo</a>
 
 </td>
 
@@ -77,10 +77,10 @@
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🧪 Vijnana Lab  
-**AI Virtual Science Laboratory**
+AI Virtual Science Laboratory  
 
 <p>
 <img src="https://img.shields.io/badge/React-blue?style=flat-square"/>
@@ -93,11 +93,12 @@
 - 📊 Student dashboards  
 - 🏆 Hackathon winner  
 
-🔗 <a href="https://vijnanalabbyteamsupra.netlify.app/#/home" target="_blank">Live Demo</a>
+🔗 <a href="https://vijnanalabbyteamsupra.netlify.app/#/home">Live Demo</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
+e>
 
 ---
 
