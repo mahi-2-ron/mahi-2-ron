@@ -46,7 +46,6 @@
 
 ### 🚀 Highlights
 
-* 🧩 150+ DSA problems (LeetCode)
 * 👨‍🏫 DSA Co-Lead @ GDG
 * 🧑‍💼 Technical Lead @ E-Cell (2024–25)
 * ⚡ MERN + AI + System Design
