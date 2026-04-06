@@ -187,15 +187,7 @@ Where Karnataka Engineers Unite
 
 </div>
 
----
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mahi-2-ron&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
