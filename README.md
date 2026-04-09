@@ -33,6 +33,10 @@
 
 <td width="50%" valign="top">
 
+---
+
+
+
 ### 👨‍💻 Profile
 
 * 🎓 BE (Electronics & Communication Engineering)
@@ -56,6 +60,30 @@
 </table>
 
 ---
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahi-2-ron&theme=tokyonight"/>
+</td>
+
+<td width="33%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahi-2-ron&theme=tokyonight"/>
+</td>
+
+<td width="33%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahi-2-ron&theme=tokyonight"/>
+</td>
+
+</tr>
+</table>
+
+</div>
+
 
 ## 🚀 Featured Projects
 
