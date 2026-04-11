@@ -23,7 +23,7 @@ The hardest part of programming isn’t writing code — it’s designing system
 
 <h2>Hi 👋, I'm Mahesh R Madiwalar</h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&vCenter=true&width=420&lines=Backend+Developer;MERN+Stack+Developer;AI+Builder;Hackathon+Winner;DSA+Co-Lead+@+GDG;Technical+Lead+@+E-Cell" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&vCenter=true&width=420&lines=Backend+Developer;MERN+Stack+Developer;AI+Builder;;DSA+Co-Lead+@+GDG;Technical+Lead+@+E-Cell" />
 
 <br>
 
@@ -38,9 +38,7 @@ The hardest part of programming isn’t writing code — it’s designing system
 
 ---
 
-<h2>Hi 👋, I'm Mahesh R Madiwalar</h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&vCenter=true&width=420&lines=Backend+Developer;MERN+Stack+Developer;AI+Builder;Hackathon+Winner;DSA+Co-Lead+@+GDG;Technical+Lead+@+E-Cell" />
 
 <br>
 
