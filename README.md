@@ -60,6 +60,11 @@
 </table>
 
 ---
+## 📊 GitHub Stats
+
+![Overview](https://raw.githubusercontent.com/mahi-2-ron/github-stats-transparent/output/generated/overview.svg)
+
+![Languages](https://raw.githubusercontent.com/mahi-2-ron/github-stats-transparent/output/generated/languages.svg)
 ## 📊 GitHub Dashboard
 
 <div align="center">
