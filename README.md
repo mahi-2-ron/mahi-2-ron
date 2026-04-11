@@ -8,6 +8,23 @@
 </td>
 
 <td width="60%" align="left">
+<div align="center">
+  
+<table>
+<tr>
+<td>
+
+<h3>
+“The hardest part of programming isn’t writing code — it’s designing systems that survive change.”
+</h3>
+
+<p align="right"><b>—  Probably written after debugging for 3 hours</b></p>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <h2>Hi 👋, I'm Mahesh R Madiwalar</h2>
 
