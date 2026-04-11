@@ -26,7 +26,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 <table>
 <tr>
@@ -37,7 +37,7 @@
 
 
 
-### 👨‍💻 Profile
+###  Profile
 
 * 🎓 BE (Electronics & Communication Engineering)
   Dr. Ambedkar Institute of Technology, Bengaluru
@@ -48,7 +48,7 @@
 
 <td width="50%" valign="top">
 
-### 🚀 Highlights
+###  Highlights
 
 * 👨‍🏫 DSA Co-Lead @ GDG
 * 🧑‍💼 Technical Lead @ E-Cell (2024–25)
@@ -60,12 +60,9 @@
 </table>
 
 ---
-## 📊 GitHub Stats
 
-![Overview](https://raw.githubusercontent.com/mahi-2-ron/github-stats-transparent/output/generated/overview.svg)
 
-![Languages](https://raw.githubusercontent.com/mahi-2-ron/github-stats-transparent/output/generated/languages.svg)
-## 📊 GitHub Dashboard
+##  GitHub Dashboard
 
 <div align="center">
 
@@ -73,15 +70,15 @@
 <tr>
 
 <td width="33%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahi-2-ron&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahi-2-ron&theme=default"/>
 </td>
 
 <td width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahi-2-ron&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahi-2-ron&theme=default"/>
 </td>
 
 <td width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahi-2-ron&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahi-2-ron&theme=default"/>
 </td>
 
 </tr>
@@ -197,7 +194,7 @@ Where Karnataka Engineers Unite
 
 <td width="50%" valign="top">
 
-### ⚡ Currently Building
+###  Currently Building
 
 * 🧠 AI-powered developer ecosystem
 * 🤝 Real-time collaboration tools
@@ -224,13 +221,13 @@ Where Karnataka Engineers Unite
 
 ---
 
-## 📈 Contribution Activity Graph
+##  Contribution Activity Graph
 
 [![Mahesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahi-2-ron\&theme=tokyo-night)](https://github.com/mahi-2-ron)
 
 ---
 
-## 🌱 Current Focus
+##  Current Focus
 
 * Building real-world MERN + AI platforms
 * Strengthening DSA & system design
@@ -238,7 +235,7 @@ Where Karnataka Engineers Unite
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
@@ -257,20 +254,20 @@ Where Karnataka Engineers Unite
 </div>
 
 ---
-## 🧑‍💻 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
-### 🚀 Languages
+###  Languages
 <img src="https://skillicons.dev/icons?i=java,js,python,c" />
 
-### ⚙️ Backend & Database
+###  Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 
-### 🎨 Frontend
+###  Frontend
 <img src="https://skillicons.dev/icons?i=react,html,css" />
 
-### 🛠️ Tools & DevOps
+###  Tools & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 
 </div>
