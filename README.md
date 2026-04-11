@@ -8,23 +8,35 @@
 </td>
 
 <td width="60%" align="left">
-<div align="center">
-  
-<table>
-<tr>
-<td>
 
-<h3>
-“The hardest part of programming isn’t writing code — it’s designing systems that survive change.”
-</h3>
+<blockquote>
 
-<p align="right"><b>—  Probably written after debugging for 3 hours</b></p>
+<b>
+The hardest part of programming isn’t writing code — it’s designing systems that survive change.
+</b>
+
+<br>
+
+<i>— Probably written after debugging for 3 hours</i>
+
+</blockquote>
+
+<h2>Hi 👋, I'm Mahesh R Madiwalar</h2>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&vCenter=true&width=420&lines=Backend+Developer;MERN+Stack+Developer;AI+Builder;Hackathon+Winner;DSA+Co-Lead+@+GDG;Technical+Lead+@+E-Cell" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mahi-2-ron&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </td>
+
 </tr>
 </table>
 
 </div>
+
+---
 
 <h2>Hi 👋, I'm Mahesh R Madiwalar</h2>
 
