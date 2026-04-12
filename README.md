@@ -42,7 +42,7 @@ The hardest part of programming isn’t writing code — it’s designing system
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=mahi-2-ron&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=mahiMadiwalar18&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </td>
 
@@ -101,11 +101,11 @@ The hardest part of programming isn’t writing code — it’s designing system
 </td>
 
 <td width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahi-2-ron&theme=default"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=maheshMadiwalar18&theme=default"/>
 </td>
 
 <td width="33%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahi-2-ron&theme=default"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maheshMadiwalar18&theme=default"/>
 </td>
 
 </tr>
@@ -250,16 +250,16 @@ Where Karnataka Engineers Unite
 
 ##  Contribution Activity Graph
 
-[![Mahesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mahi-2-ron\&theme=tokyo-night)](https://github.com/mahi-2-ron)
+[![Mahesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maheshMadiwalar18\&theme=tokyo-night)](https://github.com/mahi-2-ron)
 
 ---
 
 ##  Current Focus
 
-* Building real-world MERN + AI platforms
-* Strengthening DSA & system design
-* Learning scalable backend architecture & cloud
-
+* Building real-world MERN + AI platforms  
+* Strengthening DSA & system design  
+* Learning Web3 & Smart Contract Development  
+* Exploring scalable backend architecture & cloud  
 ---
 
 ##  Connect With Me
@@ -301,6 +301,5 @@ Where Karnataka Engineers Unite
 
 <div align="center">
 
-⭐ Always learning, building, and scaling impactful tech.
-
+  Learning fast, building things, and debugging like it's a full-time job.
 </div>
