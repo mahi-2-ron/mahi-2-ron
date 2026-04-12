@@ -27,7 +27,7 @@ The hardest part of programming isn’t writing code — it’s designing system
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=mahi-2-ron&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=maheshMadiwalar18&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </td>
 
@@ -42,7 +42,7 @@ The hardest part of programming isn’t writing code — it’s designing system
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=mahiMadiwalar18&label=Profile%20Views&color=0e75b6&style=flat"/>
+
 
 </td>
 
