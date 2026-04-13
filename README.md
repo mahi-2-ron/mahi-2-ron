@@ -97,7 +97,7 @@ The hardest part of programming isn’t writing code — it’s designing system
 <tr>
 
 <td width="33%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahi-2-ron&theme=default"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshMadiwalar18&theme=default"/>
 </td>
 
 <td width="33%">
