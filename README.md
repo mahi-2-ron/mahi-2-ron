@@ -189,16 +189,6 @@ AI Virtual Science Laboratory
 
 <td width="50%" valign="top">
 
-
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
 ### 🚀 Namma Dev (Ongoing)
 
 Where Karnataka Engineers Unite
@@ -219,18 +209,9 @@ Where Karnataka Engineers Unite
 
 </td>
 
-<td width="50%" valign="top">
 
-###  Currently Building
 
-* 🧠 AI-powered developer ecosystem
-* 🤝 Real-time collaboration tools
-* 📊 Engineer growth tracking
-* 🌍 Karnataka → Global expansion
 
-</td>
-
-</tr>
 
 </table>
 
