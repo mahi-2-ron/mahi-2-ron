@@ -200,7 +200,7 @@ Where Karnataka Engineers Unite
 <img src="https://img.shields.io/badge/FramerMotion-black?style=flat-square"/>
 </p>
 
-* 📍 Karnataka engineer network
+
 * 📈 Career growth & mentorship
 * 🏆 Project showcase platform
 * 🌐 Global opportunities
