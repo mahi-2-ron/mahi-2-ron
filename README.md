@@ -134,9 +134,8 @@ AI Powered Artisan Marketplace
 </p>
 
 * 🏛 Cultural discovery with D3.js map
-* 🔨 Real-time auction system
 * 🤖 AI pricing & voice listing
-* 🎨 Multi-role dashboards
+* 🎨 Multi-role dashboards 
 
 </td>
 
