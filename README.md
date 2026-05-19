@@ -226,12 +226,7 @@ Where Karnataka Engineers Unite
 
 
 
----
-
-##  Contribution Activity Graph
-
-[![Mahesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maheshMadiwalar18\&theme=tokyo-night)](https://github.com/mahi-2-ron)
-
+-
 ---
 
 ##  Current Focus
