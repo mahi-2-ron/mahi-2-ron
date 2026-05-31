@@ -69,7 +69,7 @@ The hardest part of programming isn’t writing code — it’s designing system
 * 🎓 BE (Electronics & Communication Engineering)
   Dr. Ambedkar Institute of Technology, Bengaluru
 * 💻 Backend Systems, APIs & Scalable Web Apps
-* 🤖 Building AI-powered platforms
+* 🤖 Building AI-powered platformss
 
 </td>
 
