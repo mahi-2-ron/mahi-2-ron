@@ -218,11 +218,26 @@ Where Karnataka Engineers Unite
 
 ## 💻 Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,js,python,c,react,nodejs,express,mongodb,firebase,git,github,docker,html,css,vscode" />
-
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/C-blue?logo=c&style=flat-square">
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&style=flat-square">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=flat-square">
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&style=flat-square">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square">
+<img src="https://img.shields.io/badge/React-20232A?logo=react&style=flat-square">
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&style=flat-square">
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&style=flat-square">
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&style=flat-square">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square">
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=flat-square">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&style=flat-square">
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=flat-square">
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=flat-square">
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&style=flat-square">
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&style=flat-square">
+<img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square">
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&style=flat-square">
+</p>
 
 
 
@@ -256,21 +271,7 @@ Where Karnataka Engineers Unite
 </div>
 
 ---
-##  Tech Stack
 
-<div align="center">
-
-###  Languages
-<img src="https://skillicons.dev/icons?i=java,js,python,c" />
-
-###  Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-
-###  Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css" />
-
-###  Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 
 </div>
 
