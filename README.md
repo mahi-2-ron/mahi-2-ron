@@ -12,7 +12,7 @@
 <blockquote>
 
 <b>
-The hardest part of programming isn’t writing code — it’s designing systems that survive change.
+The hardest part of programming isn’t writing code — it’s designing systems that survive change...
 </b>
 
 <br>
